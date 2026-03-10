@@ -127,7 +127,7 @@
     "chokidar": "^4.0.3",
     "sqlite3": "^5.1.7",
     "@tensorflow/tfjs-node": "^4.17.0",
-    "simple-git": "^3.22.0",
+    "simple-git": "^3.32.3",
     "typescript-parser": "^2.6.1",
     "node-nlp": "^4.27.0",
     "complexity": "^0.0.3",
